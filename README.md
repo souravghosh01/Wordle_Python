@@ -1,4 +1,5 @@
-Python Wordle in Console 
+**Python Wordle in Console **
+
 
 If your guess is not correct and not a single character is present in the word it will show underscores: _ _ _ _ _
 
