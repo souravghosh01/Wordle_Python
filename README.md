@@ -1,6 +1,6 @@
 **Python Wordle in Console** 
 
-**Run Instructions**
+
 to run type python wordle.py in console
 
 **Game Rules**
